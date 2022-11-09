@@ -9,7 +9,7 @@ The graph also does not show any schools above 95% poverty. For the sake of the 
 Install Jupyter notebook and import this notebook. Download csv file and move to the same directory as this notebook.
 
 ## Graph
-<img src="NYC Public School SAT Scores.png" alt="Alt text" title="10 Year Record Temperatures in 2015 (Ann Arbor, Michigan)">
+<img src="NYC Public School SAT Scores.png" alt="Alt text" title="NYC Public School SAT Scores">
 
 ## References
 https://jupyter.org/
